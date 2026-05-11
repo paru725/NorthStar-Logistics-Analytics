@@ -41,4 +41,4 @@ To run these notebooks, you will need:
 * The following libraries: `sqldf`, `pandas`, `numpy`, `matplotlib`, `seaborn`, `pymongo`, `certifi`.
 
 ## 🎓 Author
-**PARVATHI RAMADAS** *Final Year Computer Science Student*
+**PARVATHI RAMADAS** *level 6 Computer Science Student*
